@@ -1,0 +1,12 @@
+/* styles.css */
+
+/* Стиль для блока цитаты */
+blockquote {
+    background-image: url('https://netology-code.github.io/wm-homeworks/text/images/wm-2-2-bg.jpg'); /* Устанавливаем фон */
+    color: #494429; /* Устанавливаем цвет текста */
+    font-style: italic; /* Устанавливаем курсивное начертание */
+    font-family: serif; /* Устанавливаем шрифт с засечками */
+    padding: 15px; /* Небольшие отступы вокруг текста цитаты */
+    border-radius: 8px; /* Скругляем углы фона цитаты */
+    margin: 20px 0; /* Устанавливаем отступы сверху и снизу */
+}
